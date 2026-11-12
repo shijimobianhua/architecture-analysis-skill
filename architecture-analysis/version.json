@@ -1,0 +1,8 @@
+{
+  "version": "3.2.2",
+  "spec_schema": "2.0",
+  "experience_schema": "2.0",
+  "legacy_manifest_verification": true,
+  "python": ">=3.10",
+  "dependencies": ["Pillow>=10.0"]
+}

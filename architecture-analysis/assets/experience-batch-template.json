@@ -1,0 +1,28 @@
+{
+  "order_id": null,
+  "reviewed": false,
+  "candidates": [
+    {
+      "candidate_id": null,
+      "category": null,
+      "level": "conditional",
+      "scope": {
+        "diagram_types": [],
+        "project_types": [],
+        "style_tags": [],
+        "constraints": [],
+        "project_ids": []
+      },
+      "issue": null,
+      "solution": null,
+      "evidence": [],
+      "feedback": null,
+      "validation": {
+        "status": "not_tested"
+      },
+      "references": [],
+      "customer_material": false,
+      "customer_consent": false
+    }
+  ]
+}

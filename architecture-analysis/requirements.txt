@@ -1,0 +1,10 @@
+# architecture-analysis runtime dependencies
+# Python >= 3.10 required.
+#
+# Install before first use:
+#   pip install -r requirements.txt
+#
+# Only Pillow is needed. Map acquisition, layout checks and layer composition
+# all rely on it; map_source.py uses the standard library for networking.
+
+Pillow>=10.0

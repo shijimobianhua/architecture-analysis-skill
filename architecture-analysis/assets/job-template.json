@@ -1,0 +1,78 @@
+{
+  "schema_version": "2.0",
+  "project": {
+    "name": null,
+    "goal": null
+  },
+  "request": {
+    "diagram_types": [],
+    "canvas_image": null,
+    "width_px": null,
+    "height_px": null,
+    "deadline": null,
+    "revision_rounds": null,
+    "dpi": 300,
+    "background": null,
+    "reference_background": {
+      "prominent": false,
+      "color": null,
+      "decision": null
+    },
+    "density": {
+      "level": null,
+      "confirmed": false,
+      "confirmation_source": null
+    }
+  },
+  "inputs": {
+    "brief": [],
+    "style_references": [],
+    "plan_images": [],
+    "model_views": [],
+    "provided_results": []
+  },
+  "interpretation": {
+    "main_question": null,
+    "evidence_to_analysis": [],
+    "unknowns": [],
+    "questions_requiring_reply": []
+  },
+  "style_card": null,
+  "layer_manifest": null,
+  "delivery": {
+    "tier": "aligned_png_layers",
+    "external_titles": false
+  },
+  "timing": {
+    "active_minutes": null,
+    "generation_wait_minutes": null,
+    "revision_minutes": null,
+    "total_elapsed_minutes": null
+  },
+  "costs": {
+    "currency": "CNY",
+    "tools": null,
+    "revenue": null
+  },
+  "qa": {
+    "automatic_checks": {
+      "status": "not_run"
+    },
+    "photoshop": {
+      "status": "pending_user",
+      "checked_by": null,
+      "evidence": null
+    }
+  },
+  "skill_version": "3.2.0",
+  "typography": {
+    "confirmed": false,
+    "confirmation_source": null,
+    "roles": {}
+  },
+  "experience_review": {
+    "order_id": null,
+    "reviewed": false,
+    "candidates": []
+  }
+}

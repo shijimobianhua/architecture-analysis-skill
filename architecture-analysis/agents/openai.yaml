@@ -1,0 +1,4 @@
+interface:
+  display_name: "建筑分析图工作室"
+  short_description: "解读建筑任务书，适配多种风格，输出整图及可在PS对齐的分层PNG"
+  default_prompt: "使用 $architecture-analysis，结合任务书、参考风格和画布制作建筑分析图，交付整图与同坐标分层PNG。"
